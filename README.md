@@ -13,4 +13,4 @@ SHP3* is **NP** complete. There exists a reduction of the form _SHP3*_ ≤ _IPC 
 This project provides a parser that takes arbitrary _SHP3*_ instances and returns the corresponding _IPC Nurikabe_ layout.
 
 # Usage
-`` python3 main.py -fname filename.txt [-v][-b][-e]``
+``python3 main.py -fname filename.txt [-v][-b][-e][-T][-Tp]``
